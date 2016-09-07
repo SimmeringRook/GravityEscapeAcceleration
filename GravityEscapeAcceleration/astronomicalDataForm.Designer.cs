@@ -428,7 +428,7 @@
             this.add_MassTextBox.Name = "add_MassTextBox";
             this.add_MassTextBox.Size = new System.Drawing.Size(100, 31);
             this.add_MassTextBox.TabIndex = 15;
-            this.add_MassTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.add_MassTextBox_KeyPress);
+            this.add_MassTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ValidateInput_KeyPress);
             // 
             // add_NameTextBox
             // 
@@ -473,7 +473,7 @@
             this.add_RadiusExponentTextBox.Name = "add_RadiusExponentTextBox";
             this.add_RadiusExponentTextBox.Size = new System.Drawing.Size(100, 31);
             this.add_RadiusExponentTextBox.TabIndex = 24;
-            this.add_RadiusExponentTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.add_RadiusExponentTextBox_KeyPress);
+            this.add_RadiusExponentTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ValidateInput_KeyPress);
             // 
             // add_RadiusTextBox
             // 
@@ -481,7 +481,7 @@
             this.add_RadiusTextBox.Name = "add_RadiusTextBox";
             this.add_RadiusTextBox.Size = new System.Drawing.Size(100, 31);
             this.add_RadiusTextBox.TabIndex = 18;
-            this.add_RadiusTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.add_RadiusTextBox_KeyPress);
+            this.add_RadiusTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ValidateInput_KeyPress);
             // 
             // add_MassExponentLabel
             // 
@@ -510,7 +510,7 @@
             this.add_MassExponentTextBox.Name = "add_MassExponentTextBox";
             this.add_MassExponentTextBox.Size = new System.Drawing.Size(100, 31);
             this.add_MassExponentTextBox.TabIndex = 22;
-            this.add_MassExponentTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.add_MassExponentTextBox_KeyPress);
+            this.add_MassExponentTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ValidateInput_KeyPress);
             // 
             // add_RadiusLabel
             // 

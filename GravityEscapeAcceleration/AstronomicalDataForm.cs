@@ -147,14 +147,14 @@ namespace SurfaceGravityCalculator
         /// <param name="sender"></param>
         /// <param name="e"></param>
         /// <returns></returns>
-        private bool ValidateInput(object sender, KeyPressEventArgs e)
+        private void ValidateInput_KeyPress(object sender, KeyPressEventArgs e)
         {
             TextBox textBox = (TextBox)sender;
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.'))
             {
                 MessageBox.Show("Only [0-9] and '.' are valid inputs.");
                 textBox.BackColor = Color.LightPink;
-                return true;
+                e.Handled = true;
             }
 
             // only allow one decimal point
@@ -162,32 +162,11 @@ namespace SurfaceGravityCalculator
             {
                 MessageBox.Show("You can only have one decimal point.");
                 textBox.BackColor = Color.LightPink;
-                return true;
+                e.Handled = true;
             }
 
             textBox.BackColor = SystemColors.Window;
-            return false;
-        }
-
-        // TODO: There's probably an even better way to do this.
-        private void add_MassTextBox_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = ValidateInput(sender, e);
-        }
-
-        private void add_MassExponentTextBox_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = ValidateInput(sender, e);
-        }
-
-        private void add_RadiusTextBox_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = ValidateInput(sender, e);
-        }
-
-        private void add_RadiusExponentTextBox_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = ValidateInput(sender, e);
+            e.Handled = false;
         }
 
         private void clearButton_Click(object sender, EventArgs e)
