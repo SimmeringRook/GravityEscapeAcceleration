@@ -1,0 +1,8 @@
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Release\SurfaceGravityCalculator.exe.config
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Release\SurfaceGravityCalculator.exe
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Release\SurfaceGravityCalculator.pdb
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Release\SurfaceGravityCalculator.surfaceGravityCalcForm.resources
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Release\SurfaceGravityCalculator.Properties.Resources.resources
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Release\SurfaceGravityCalculator.csproj.GenerateResource.Cache
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Release\SurfaceGravityCalculator.exe
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Release\SurfaceGravityCalculator.pdb

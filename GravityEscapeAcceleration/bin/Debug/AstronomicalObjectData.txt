@@ -1,0 +1,3 @@
+Pheonix Cluster Black Hole,20,9,SolarMass,59,9,km
+Earth,59.72,23,kg,6.371,3,km
+Sagittarius A*,41,5,SolarMass,67,8,km

@@ -1,0 +1,14 @@
+C:\Users\knudsont6467\Desktop\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\GravityEscapeAcceleration.exe.config
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\GravityEscapeAcceleration.exe.config
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\GravityEscapeAcceleration.exe
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\GravityEscapeAcceleration.pdb
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Debug\GravityEscapeAcceleration.csprojResolveAssemblyReference.cache
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Debug\GravityEscapeAcceleration.Properties.Resources.resources
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Debug\GravityEscapeAcceleration.csproj.GenerateResource.Cache
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Debug\GravityEscapeAcceleration.exe
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Debug\GravityEscapeAcceleration.pdb
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\BigRationalLibrary.dll
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\BigRationalLibrary.pdb
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\obj\Debug\GravityEscapeAcceleration.surfaceGravityCalcForm.resources
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\Surface Gravity Calculator.exe.config
+C:\Users\Hall of Mead\Documents\Visual Studio 2015\Projects\Side Projects\GravityEscapeAcceleration\GravityEscapeAcceleration\bin\Debug\SurfaceGravityCalculator.exe.config
